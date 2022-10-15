@@ -25,3 +25,4 @@ pylint-quotes==0.2.3
 sentry-sdk[flask]
 sentry-sdk~=1.5.12
 python-dotenv==0.19.1
+oic>=1.2.1 # not directly required, pinned by Snyk to avoid a vulnerability
