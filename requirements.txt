@@ -1,4 +1,4 @@
-black~=21.9b0
+black~=24.3.0
 csh-ldap==2.4.0
 click~=7.1.2
 ddtrace~=1.2.1
