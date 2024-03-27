@@ -1,4 +1,4 @@
-black~=21.9b0
+black~=24.3.0
 csh-ldap==2.4.0
 click~=7.1.2
 ddtrace~=1.2.1
@@ -25,3 +25,5 @@ pylint-quotes==0.2.3
 sentry-sdk[flask]
 sentry-sdk~=1.5.12
 python-dotenv==0.19.1
+dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
